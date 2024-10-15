@@ -8,6 +8,7 @@ based on work of Pro. Wu, Wr have made some attempts in solid mechanics. Initial
 This repository contains training data for 3D cantilever beams, 1D nonlinear equations and paper folding simulations. Please refer to Wu's work.
 The dataset files can be downloaded via this [link](https://drive.google.com/drive/my-drive).
  download the files under "tetramesh_beam_data/" in the link into the "data/tetramesh_beam_data/" folder in the local repo.
+ If have any questions, please contact me: fengbo19940401@126.com
 
 ## Some improvements in this work
 

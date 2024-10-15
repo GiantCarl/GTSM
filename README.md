@@ -4,6 +4,9 @@ The work of this article is based on the work of Professor Tailin Wu of Westlake
 
 based on work of Pro. Wu, Wr have made some attempts in solid mechanics. Initially we wanted to apply Tailin Wu's work to multi-resolution scenarios in solid mechanics, such as fracture mechanics. However, during the implementation, we found that it was beyond our capabilities due to the large amount of GPU memory required. In the end, we turned to some simple solid mechanics cases.
 
+## Note
+This repository contains training data for 3D cantilever beams, 1D nonlinear equations and paper folding simulations. Please refer to Wu's work.
+
 ## Some improvements in this work
 
 1.The graph transformer with attention mechanism is proposed to aggregate information from neighboring nodes.

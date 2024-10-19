@@ -33,8 +33,6 @@ If you find our work and/or our code useful, please cite us via:
     year={2023},
     url={https://openreview.net/forum?id=PbfgkZ2HdbE}
 }
-...
-```bibtex
 @article{FENG2024117410,
     title = {The novel graph transformer-based surrogate model for learning physical systems},
     journal = {Computer Methods in Applied Mechanics and Engineering},

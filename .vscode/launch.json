@@ -1,1 +1,64 @@
 
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python Debugger: Current File",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal",
+
+            //Configuration of "args"
+            // ==================================3D model============================================
+            // ---------------3D evolution model---------------
+            // "env": {
+            //     "OMP_NUM_THREADS": "2"
+            // },
+            // "args": [
+            //     "--exp_id", "evo-3d",
+            //     "--date_time", "2024-08-15",
+            //     "--dataset", "tetramesh-beam-3d",
+            //     "--time_interval", "1",
+            //     "--data_dropout", "None",
+            //     "--n_train", "-1",
+            //     "--save_interval", "5",
+            //     "--algo", "gnnremesher-evolution",
+            //     "--load_dirname","evo-3d_2024-07-09", 
+            //     "--load_filename","hozt6+RB_DESKTOP-VSD4V16", 
+            //     "--rl_coefs", "None",
+            //     "--input_steps", "2",
+            //     "--act_name", "silu",
+            //     "--multi_step", "1",
+            //     "--temporal_bundle_steps", "1",
+            //     "--edge_attr", "True",
+            //     "--use_grads", "False",
+            //     "--is_y_diff", "False",
+            //     "--loss_type", "l2",
+            //     "--batch_size", "32",
+            //     "--val_batch_size", "32",
+            //     "--latent_size", "64",
+            //     "--n_layers", "8",
+            //     // "--noise_amp", "1e-4",
+            //     // "--correction_rate", "0.9",
+            //     "--epochs", "2000",
+            //     "--opt", "adam",
+            //     "--weight_decay", "0",
+            //     "--is_mesh", "True",
+            //     "--seed", "0",
+            //     "--id", "0",
+            //     "--verbose", "2",
+            //     "--test_interval", "2",
+            //     "--n_workers", "0",
+            //     "--gpuid", "0",
+            //     "--stress", "True",
+            //     "--lr","1e-4",
+            //     "--evo_transfer","False",
+            // ]
+
+        }
+    ]
+}
